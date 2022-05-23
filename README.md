@@ -8,7 +8,7 @@
 
 
 
-# Mayka He cxhot wa7shi Ba Hamw Tamant pet Nakreta V13 Etr Xhot Zool Maka 
+# Mayka He xhot wa7shi Ba Hamw Tamant pet Nakreta V13 Etr Xhot Zool Maka 
 
 
 
