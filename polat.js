@@ -21,7 +21,7 @@ const cmd = require("node-cmd");
 const prefix = "/";
 const cooldown = new Set();
 const cdtime = 5;
-client.login("TYPE TOKEN");
+client.login("MTAyODQ2MzI5Nzc0MzMxMDg1OA.G3jeed.6kDp0_J_7x8PXoakitDH_xRQw3TV6m5TsGA4Mg");
 client.on("ready", () => {
   console.log(`${client.user.tag}`);
 });
@@ -29,7 +29,7 @@ client.on("ready", () => {
  client.on("ready", () => {
 setInterval(() => {
   client.user.setActivity(
-  `${prefix}help | Made By POLAT BOT`,
+  `${prefix}+help | Security Bot`,
   );
 }, 2000);
 })
